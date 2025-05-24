@@ -1,0 +1,17 @@
+.title {
+    text-transform: uppercase;
+    font-family: var(--font-title);
+    text-align: center;
+    font-size: 52px;
+    font-weight: 300;
+    color: var(--color-text);
+    margin: 30px 0;
+}
+
+.subtitle {
+    color: var(--color-text);
+    font-family: var(--font-subtitle);
+    font-style: italic;
+    text-align: center;
+    font-size: 23px;
+}

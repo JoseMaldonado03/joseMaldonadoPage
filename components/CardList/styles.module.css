@@ -1,0 +1,5 @@
+.cardList {
+    display: flex;
+    justify-content: space-between;
+    margin: 72px 0;
+}
