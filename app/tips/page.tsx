@@ -1,6 +1,6 @@
 import CardItem from '@/components/CardItem';
 import CardList from '@/components/CardList';
-import { getContent, getCarpetaContent } from '@/services/content';
+import { getCarpetaContent } from '@/services/content';
 
 export default function ProgramacionPage() {
   const contents = getCarpetaContent('./public/content/tips');
@@ -12,7 +12,7 @@ export default function ProgramacionPage() {
           title={content.title}
           summary={content.summary}
           image={content.image}
-          data={content.date}
+          date={content.date}
           link={`/tips/${content.link}`}
         />
       ))}

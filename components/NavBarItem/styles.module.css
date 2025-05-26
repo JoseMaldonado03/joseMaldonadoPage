@@ -9,7 +9,7 @@
     border-bottom: 1px dotted var(--color-text);
   }
 
-  a {
+  & a {
     color: var(--color-text);
     padding-bottom: 5px;
   }

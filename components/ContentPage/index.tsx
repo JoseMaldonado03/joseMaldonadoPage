@@ -15,7 +15,6 @@ function CodeContent({ children }: { children: string }) {
 }
 
 export default function ContentPage(props: Partial<ContentProperties>) {
-  const html = props.content && highlight(props.content);
   return (
     <article className={classes.article}>
       <h2 className={classes.title}>{props.title}</h2>

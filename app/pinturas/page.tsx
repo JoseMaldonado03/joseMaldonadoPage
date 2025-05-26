@@ -12,7 +12,7 @@ export default function PinturasPage() {
           title={content.title}
           summary={content.summary}
           image={content.image}
-          data={content.date}
+          date={content.date}
           link={`/pinturas/${content.link}`}
         />
       ))}

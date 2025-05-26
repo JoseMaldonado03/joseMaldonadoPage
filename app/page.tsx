@@ -14,20 +14,20 @@ export default function HomePage() {
       <CardList>
         <CardItem
           link={`/poemas/${poema.link}`}
-          data={poema.date}
+          date={poema.date}
           title={poema.title}
           summary={poema.summary}
         />
         <CardItem
           link={`/pinturas/${pintura.link}`}
-          data={pintura.date}
+          date={pintura.date}
           title={pintura.title}
           image={pintura.image}
         />
         <CardItem
           link={`/tips/${tip.link}`}
           title={tip.title}
-          data={tip.date}
+          date={tip.date}
           summary={tip.summary}
         />
       </CardList>
