@@ -1,0 +1,10 @@
+.cache
+package.json
+yarn.lock
+public
+build
+node_module
+*.png
+*.jpg
+*.jpeg
+.next

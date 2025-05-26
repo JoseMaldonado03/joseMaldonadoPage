@@ -1,0 +1,31 @@
+.button {
+  height: 34px;
+  width: 50px;
+  margin: 0 20px;
+  background: transparent;
+  border: 2px solid var(--color-text);
+  border-radius: 18px;
+  padding: 0px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+
+  &[data-enabled='true'] {
+    justify-content: flex-start;
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.indicator {
+  height: 30px;
+  width: 30px;
+  background: var(--color-text);
+  border-radius: 20px;
+  color: var(--color-background);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

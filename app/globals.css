@@ -1,18 +1,29 @@
 :root {
-  --color-background: #F9F1E0;
-  --color-text:  #152D17;
-  --color-box-background: #F0E3C4;
+  --color-background: #f9f1e0;
+  --color-text: #152d17;
+  --color-box-background: #f0e3c4;
+  --color-code-background: #ddcda7;
+
+  --sh-class: #2d5e9d;
+  --sh-identifier: #354150;
+  --sh-sign: #8996a3;
+  --sh-property: #0550ae;
+  --sh-entity: #249a97;
+  --sh-jsxliterals: #6266d1;
+  --sh-string: #00a99a;
+  --sh-keyword: #f47067;
+  --sh-comment: #a19595;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #4E1B26;
-    --color-box-background: #3e151f;
-    --color-text:  #EAE6DC;
-  }
+[data-theme='dark'] {
+  --color-code-background: #251015;
+  --color-background: #4e1b26;
+  --color-box-background: #3e151f;
+  --color-text: #eae6dc;
 }
 
-html, body {
+html,
+body {
   max-width: 100vw;
   overflow-x: hidden;
 }
@@ -34,10 +45,4 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
 }

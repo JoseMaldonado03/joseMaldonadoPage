@@ -1,34 +1,41 @@
 .summary {
-    margin-top: 36px;
-    font-family: var(--font-subtitle);
-    color: var(--color-text);
-    font-size: 21px;
-    font-style: italic;
+  margin-top: 36px;
+  font-family: var(--font-subtitle);
+  color: var(--color-text);
+  font-size: 21px;
+  font-style: italic;
 }
 
 .cardItem {
-    background-color: var(--color-box-background);
-    width: 100%;
-    margin: 0 17px;
-    padding: 20px;
-    border-radius: 4px;
+  background-color: var(--color-box-background);
+  width: 100%;
+  margin: 0 17px;
+  padding: 20px;
+  border-radius: 4px;
+  position: relative;
 }
 
 .title {
-    font-family: var(--font-title);
-    color: var(--color-text);
-    font-size: 35px;
-    font-weight: 300;
+  font-family: var(--font-title);
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 300;
 }
 
 .image {
-    width: 100%;
-    height: auto;
-    margin-bottom: 26px;
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom: 26px;
+  position: relative !important;
 }
 
 .arrow svg {
-    font-size: 44px;
-    color: var(--color-text);
-    margin-top: 10px;
+  font-size: 44px;
+  color: var(--color-text);
+  margin-top: 10px;
+}
+
+.date {
+  margin-top: 10px;
+  font-family: var(--font-subtitle);
 }
