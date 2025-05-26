@@ -1,5 +1,5 @@
 .cardList {
-  margin: 72px 0;
+  margin: 40px 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 20px;

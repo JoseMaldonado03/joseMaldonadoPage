@@ -7,18 +7,17 @@ import { ContentProperties } from '@/services/content';
 import classes from './styles.module.css';
 
 function CodeContent({ children }: { children: string }) {
-  const html = highlight(children);
-
   return (
-    <code className={classes.code} dangerouslySetInnerHTML={{ __html: html }} />
+    <code
+      className={classes.code}
+      dangerouslySetInnerHTML={{ __html: highlight(children) }}
+    />
   );
 }
 
 export default function ContentPage(props: Partial<ContentProperties>) {
   return (
-    <article className={classes.article}>
-      <h2 className={classes.title}>{props.title}</h2>
-      <span className={classes.date}>{props.date}</span>
+    <div className={classes.page}>
       {props.image && (
         <Image
           fill
@@ -27,14 +26,26 @@ export default function ContentPage(props: Partial<ContentProperties>) {
           className={classes.image}
         />
       )}
-      {props.content && (
-        <div className={classes.content}>
-          <MDXRemote
-            source={props.content}
-            components={{ code: CodeContent }}
-          />
-        </div>
-      )}
-    </article>
+      <article className={classes.article}>
+        <h2 className={classes.title}>{props.title}</h2>
+        {props.date && (
+          <span className={classes.date}>
+            {new Date(props.date).toLocaleDateString('es', {
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
+            })}
+          </span>
+        )}
+        {props.content && (
+          <div className={classes.content}>
+            <MDXRemote
+              source={props.content}
+              components={{ code: CodeContent }}
+            />
+          </div>
+        )}
+      </article>
+    </div>
   );
 }

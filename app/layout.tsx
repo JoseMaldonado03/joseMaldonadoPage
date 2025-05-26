@@ -1,5 +1,5 @@
-import type { PropsWithChildren } from 'react';
-import type { Metadata } from 'next';
+import { type PropsWithChildren } from 'react';
+import { type Metadata } from 'next';
 import { Merriweather, Playfair_Display } from 'next/font/google';
 import { ThemeProvider } from 'next-themes';
 
@@ -9,6 +9,7 @@ import Container from '@/components/Container';
 import NavBar from '@/components/NavBar';
 import NavBarItem from '@/components/NavBarItem';
 import ThemeButton from '@/components/ThemeButton';
+import Footer from '@/components/Footer';
 
 const merriweatherFont = Merriweather({
   variable: '--font-title',
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
               <ThemeButton />
             </NavBar>
             {children}
+            <Footer />
           </Container>
         </ThemeProvider>
       </body>

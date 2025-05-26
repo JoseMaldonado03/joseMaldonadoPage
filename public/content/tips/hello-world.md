@@ -9,6 +9,8 @@ summary: Esta es mi primera tip
 _Italic_
 Esta es mi primera tip
 
-```js console.log('Hello World');```
+```js 
+console.log('Hello World');
+```
 
 - Hello

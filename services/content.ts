@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { notFound } from 'next/navigation';
 
 export interface ContentProperties {
   title: string;
@@ -44,6 +45,11 @@ export function getCarpetaContent(carpeta: string) {
 }
 
 export function getContent(archivo: string) {
+
+  if (!fs.existsSync(archivo)) {
+    return notFound();
+  }
+
   const content = fs.readFileSync(archivo, 'utf-8');
 
   return getFrontmatter(content);
