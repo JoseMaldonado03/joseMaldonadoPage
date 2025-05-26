@@ -1,7 +1,8 @@
 ---
 title: Apatía  
 summary: Dar o decir algo significativo por un momento de felicidad efímera sin un peso sentimental decepciona hasta el alma más marchita.
-date: 2021-11-05
+date: 2021-11-07
+collection: Muerte del Letargo I
 ---
 
 El egoísmo humano
