@@ -1,7 +1,12 @@
 .cardList {
-  margin: 40px 0;
+  margin: 20px 70px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-column-gap: 20px;
   grid-row-gap: 20px;
+
+  @media (min-width: 800px){
+    grid-template-columns: repeat(3, 1fr);
+    margin: 40px 0;
+  }
 }

@@ -1,5 +1,5 @@
 .item {
-  margin: 10px 70px 10px 0;
+  margin: 10px 0 10px 0;
   list-style: none;
   font-family: var(--font-title);
   font-size: 20px;
@@ -10,7 +10,12 @@
   }
 
   & a {
+    display: block;
     color: var(--color-text);
     padding-bottom: 5px;
+
+    @media (min-width: 800px) {
+      display: inline;
+    }
   }
 }

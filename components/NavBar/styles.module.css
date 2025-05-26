@@ -1,6 +1,38 @@
 .navBar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 120px;
+  display: none;
+
+  background-color: var(--color-box-background);
+  margin: 0 20px;
+  padding: 20px;
+
+  &[data-mobile-open="true"] {
+    display: flex;
+    flex-direction: column;
+  }
+
+  @media (min-width: 800px) {
+    background-color: transparent;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+
+     &[data-mobile-open="true"] {
+      flex-direction: row;
+    }
+  }
+}
+
+
+.hamburguesa {
+  background-color: transparent;
+  border: 0;
+  font-size: 32px;
+  padding: 16px;
+  cursor: pointer;
+
+  @media (min-width: 800px) {
+    display: none;
+  }
 }
