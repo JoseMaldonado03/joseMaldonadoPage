@@ -1,8 +1,7 @@
 ---
 title: Kairoesclerosis
 summary: Un hermoso caos, caos que anhelaba convertirse en una entelequia perfecta.
-
-date: 2021-11-24
+date: 2025-05-27
 book: muerte-del-letargo-ii
 ---
 
