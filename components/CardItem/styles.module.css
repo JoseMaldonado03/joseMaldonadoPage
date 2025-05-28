@@ -1,18 +1,10 @@
-.summary {
-  margin-top: 36px;
-  font-family: var(--font-subtitle);
-  color: var(--color-text);
-  font-size: 21px;
-  font-style: italic;
-}
-
 .cardItem {
   background-color: var(--color-box-background);
   width: 100%;
-  margin: 0 17px;
   padding: 20px;
   border-radius: 4px;
   position: relative;
+  display: block;
 }
 
 .title {
@@ -27,6 +19,14 @@
   height: auto !important;
   margin-bottom: 26px;
   position: relative !important;
+}
+
+.summary {
+  margin-top: 36px;
+  font-family: var(--font-subtitle);
+  color: var(--color-text);
+  font-size: 21px;
+  font-style: italic;
 }
 
 .arrow svg {

@@ -1,19 +1,18 @@
-import CardItem from '@/components/CardItem';
 import ContentList from '@/components/ContentList';
+import CardItem from '@/components/CardItem';
 import { getCarpetaContent } from '@/services/content';
 
-export default function ProgramacionPage() {
-  const contents = getCarpetaContent('./public/content/tips');
+export default function PoemasBooksPage() {
+  const contents = getCarpetaContent('./public/content/poemas/books');
   return (
     <ContentList>
       {contents.map((content, index) => (
         <CardItem
-          key={`tips-${index}`}
+          key={`poemas-${index}`}
           title={content.title}
           summary={content.summary}
           image={content.image}
-          date={content.date}
-          link={`/tips/${content.link}`}
+          link={`/poemas/books/${content.link}`}
         />
       ))}
     </ContentList>

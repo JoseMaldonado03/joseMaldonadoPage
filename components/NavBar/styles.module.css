@@ -5,7 +5,7 @@
   margin: 0 20px;
   padding: 20px;
 
-  &[data-mobile-open="true"] {
+  &[data-mobile-open='true'] {
     display: flex;
     flex-direction: column;
   }
@@ -18,12 +18,11 @@
     align-items: center;
     height: 120px;
 
-     &[data-mobile-open="true"] {
+    &[data-mobile-open='true'] {
       flex-direction: row;
     }
   }
 }
-
 
 .hamburguesa {
   background-color: transparent;

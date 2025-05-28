@@ -2,7 +2,7 @@
 title: Olvido
 summary: Somos hijos del tiempo propensos a  convertirnos en una eternidad o en un santiamén en el largo camino de la vida.
 date: 2021-11-29
-collection: Muerte del Letargo I
+book: muerte-del-letargo-i
 ---
 
 

@@ -9,6 +9,9 @@ export interface ContentProperties {
   link: string;
   date: string;
   content: string;
+  bookBackgroundColor?: string;
+  bookTextColor?: string;
+  book?: string;
 }
 
 export function getFrontmatter(contenido: string) {
@@ -45,7 +48,6 @@ export function getCarpetaContent(carpeta: string) {
 }
 
 export function getContent(archivo: string) {
-
   if (!fs.existsSync(archivo)) {
     return notFound();
   }

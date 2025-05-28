@@ -2,7 +2,7 @@
 title: Certidumbre 
 summary: ¿El ángel o el demonio?
 date: 2021-11-05
-collection: Muerte del Letargo I
+book: muerte-del-letargo-i
 ---
 
 

@@ -2,7 +2,7 @@
 title: Vacío
 summary: Te torturas una y otra vez sin darte cuenta de que la copa era remplazable pero las  heridas de tus manos serán eternas.
 date: 2021-11-05
-collection: Muerte del Letargo I
+book: muerte-del-letargo-i
 ---
 
 En el interior de la caja fuerte, 

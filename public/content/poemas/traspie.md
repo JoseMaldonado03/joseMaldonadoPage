@@ -2,7 +2,7 @@
 title: Traspié
 summary: la vida sin drama es como una comedia sin  risas
 date: 2021-11-05
-collection: Muerte del Letargo I
+book: muerte-del-letargo-i
 ---
 
 

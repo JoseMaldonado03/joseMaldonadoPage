@@ -1,11 +1,11 @@
-import CardList from '@/components/CardList';
+import ContentList from '@/components/ContentList';
 import CardItem from '@/components/CardItem';
 import { getCarpetaContent } from '@/services/content';
 
 export default function PinturasPage() {
   const contents = getCarpetaContent('./public/content/pinturas');
   return (
-    <CardList>
+    <ContentList>
       {contents.map((content, index) => (
         <CardItem
           key={`pinturas-${index}`}
@@ -16,6 +16,6 @@ export default function PinturasPage() {
           link={`/pinturas/${content.link}`}
         />
       ))}
-    </CardList>
+    </ContentList>
   );
 }

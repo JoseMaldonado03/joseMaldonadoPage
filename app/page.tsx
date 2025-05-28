@@ -1,5 +1,5 @@
 import CardItem from '@/components/CardItem';
-import CardList from '@/components/CardList';
+import ContentList from '@/components/ContentList';
 import Presentacion from '@/components/Presentacion';
 import { getCarpetaContent } from '@/services/content';
 
@@ -11,7 +11,7 @@ export default function HomePage() {
   return (
     <main>
       <Presentacion />
-      <CardList>
+      <ContentList>
         <CardItem
           link={`/poemas/${poema.link}`}
           date={poema.date}
@@ -30,7 +30,7 @@ export default function HomePage() {
           date={tip.date}
           summary={tip.summary}
         />
-      </CardList>
+      </ContentList>
     </main>
   );
 }
