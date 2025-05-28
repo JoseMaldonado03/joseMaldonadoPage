@@ -6,6 +6,17 @@ interface PoemasBooksNombrePageProps {
   params: Promise<{ nombre: string }>;
 }
 
+export async function generateMetadata({ params }: PoemasBooksNombrePageProps) {
+  const { nombre } = await params;
+  const archivo = `./public/content/poemas/books/${nombre}.md`;
+  const content = getContent(archivo);
+
+  return {
+    title: content.title,
+    description: content.summary,
+  }
+}
+
 export default async function PoemasBooksNombrePage({
   params,
 }: PoemasBooksNombrePageProps) {

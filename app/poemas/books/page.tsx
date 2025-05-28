@@ -1,6 +1,12 @@
+import { Metadata } from 'next';
+
 import ContentList from '@/components/ContentList';
 import CardItem from '@/components/CardItem';
 import { getCarpetaContent } from '@/services/content';
+
+export const metadata: Metadata = {
+  title: 'Libros'
+}
 
 export default function PoemasBooksPage() {
   const contents = getCarpetaContent('./public/content/poemas/books');
