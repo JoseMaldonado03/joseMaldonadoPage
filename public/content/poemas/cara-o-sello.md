@@ -2,7 +2,7 @@
 title: Cara o sello
 summary: Es una pesadilla vestida de un sueño ideal.
 date: 2021-11-17
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 Como un animal entre las sombras la  

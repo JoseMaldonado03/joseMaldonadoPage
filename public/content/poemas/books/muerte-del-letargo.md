@@ -1,6 +1,6 @@
 ---
-title: Muerte del Letargo I
-image: /content/poemas/books/muerte-del-letargo-i.png
+title: Muerte del Letargo 
+image: /content/poemas/books/muerte-del-letargo.png
 bookBackgroundColor: #1F200E
 bookTextColor: #ffffff
 ---

@@ -2,7 +2,7 @@
 title: Libertad
 summary: Un amante de invierno.
 date: 2021-11-24
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 Las casualidades y las 

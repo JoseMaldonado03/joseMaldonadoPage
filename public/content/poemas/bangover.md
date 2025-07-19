@@ -2,7 +2,7 @@
 title: Bangover
 summary: me deslizo entre tus dedos dejando solo un rastro húmedo de mí que con el tiempo se evaporará exaltando tu melindrosa codicia y avaro apetito.
 date: 2021-12-05
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 

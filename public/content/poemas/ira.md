@@ -2,7 +2,7 @@
 title: Ira
 summary: Un soplo de viento
 date: 2021-11-05
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 Arranqué cada sonrisa

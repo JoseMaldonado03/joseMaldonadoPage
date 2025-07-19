@@ -1,8 +1,8 @@
 :root {
-  --color-background: #f9f1e0;
-  --color-text: #152d17;
-  --color-box-background: #f0e3c4;
-  --color-code-background: #ddcda7;
+  --color-background: #4e1b26;
+  --color-text: #FDF283;
+  --color-box-background: #3e151f;
+  --color-code-background: #251015;
 
   --sh-class: #2d5e9d;
   --sh-identifier: #354150;
@@ -16,10 +16,10 @@
 }
 
 [data-theme='dark'] {
-  --color-code-background: #251015;
-  --color-background: #4e1b26;
-  --color-box-background: #3e151f;
-  --color-text: #eae6dc;
+  --color-code-background: #0b1617;
+  --color-background: #27393A;
+  --color-box-background:  #152425;
+  --color-text: #9FE8EA;
 }
 
 html,

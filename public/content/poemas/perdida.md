@@ -2,7 +2,7 @@
 title: Perdida
 summary: ¿Se puede perder algo que nunca fue tuyo?
 date: 2021-11-05
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 La paciencia no es mi fuerte.

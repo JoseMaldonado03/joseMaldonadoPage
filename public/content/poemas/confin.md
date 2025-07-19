@@ -2,7 +2,7 @@
 title: Confín
 summary: La noche, madre de lo oculto, me susurró tus secretos..
 date: 2025-05-14
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 
 En mi intermitencia,

@@ -2,7 +2,7 @@
 title: Negación
 summary: ¡Ayuda! Nada de esto es repetido para mí...
 date: 2021-11-05
-book: muerte-del-letargo-i
+book: muerte-del-letargo
 ---
 Tuve la llave siempre frente a mí,
 pero caminé en sentido contrario,
