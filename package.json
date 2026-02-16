@@ -7,12 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "upgrade-latest": "yarn upgrade-interactive --latest"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "15.1.8",
-    "next-mdx-remote": "^5.0.0",
+    "next": "16.1.6",
+    "next-mdx-remote": "^6.0.0",
     "next-themes": "^0.4.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -22,11 +23,11 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
+    "@types/node": "^25.2.3",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.1.8",
+    "eslint": "^10.0.0",
+    "eslint-config-next": "16.1.6",
     "prettier": "^3.5.3",
     "typescript": "^5"
   }
