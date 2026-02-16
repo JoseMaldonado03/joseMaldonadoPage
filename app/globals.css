@@ -2,7 +2,7 @@
   --background-image: url('/content/images/flores-light.png');
   /*--color-background: #4e1b26;*/
   --color-text: #FDF283;
-  --color-box-background: #3e151f;
+  --color-box-background: #8c1b38;
   --color-code-background: #251015;
 
   --sh-class: #2d5e9d;
@@ -20,7 +20,7 @@
   --background-image: url('/content/images/flores-dark.png');
   /*--color-code-background: #0b1617;*/
   --color-background: #27393A;
-  --color-box-background:  #152425;
+  --color-box-background:  #1b5a5e;
   --color-text: #B8D8D8;
 }
 
@@ -31,6 +31,7 @@ body {
 }
 
 body {
+  min-height: 100vh;
   color: var(--color-text);
   background-image: var(--background-image);
   background-size: cover;
