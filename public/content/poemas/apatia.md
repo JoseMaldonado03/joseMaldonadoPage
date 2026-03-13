@@ -11,7 +11,7 @@ Decir palabras vacías
 por un instante de falsa felicidad
 hiere incluso al alma más marchita.
 
-Él notaba mi silencio,
+Él notaba mi silencio;
 la incomodidad le rozaba
 como a un culpable atrapado en su reflejo.
 Preguntaba con falsa sorpresa:
@@ -22,9 +22,9 @@ Preguntaba con falsa sorpresa:
 
 No… no se dio cuenta.
 Y tal vez eso fue lo peor.
-Me hirió,
-y luego actuó como si nada.
-Como si mi dolor
+Me hirió
+y luego actuó como si nada,
+como si mi dolor
 no tuviera nombre.
 
 Cada silencio

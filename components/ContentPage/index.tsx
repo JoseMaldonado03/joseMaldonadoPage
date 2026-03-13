@@ -28,15 +28,6 @@ export default function ContentPage(props: Partial<ContentProperties>) {
       )}
       <article className={classes.article}>
         <h2 className={classes.title}>{props.title}</h2>
-        {props.date && (
-          <span className={classes.date}>
-            {new Date(props.date).toLocaleDateString('es', {
-              year: 'numeric',
-              month: '2-digit',
-              day: '2-digit',
-            })}
-          </span>
-        )}
         {props.content && (
           <div className={classes.content}>
             <MDXRemote

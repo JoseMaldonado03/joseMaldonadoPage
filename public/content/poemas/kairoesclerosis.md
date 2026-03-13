@@ -29,7 +29,7 @@ a cambios casi invisibles.
 Y ahora…
 la idea de compartir mi vida
 con esta confusión
-es un completo ramé;
+es un completo <i>ramé</i>;
 belleza y caos entrelazados.
 ¿Alguna vez sentiste
 cómo pesan las mentiras

@@ -14,7 +14,7 @@ export default function HomePage() {
       <ContentList>
         <CardItem
           link={`/poemas/${poema.link}`}
-          date={poema.date}
+          /*date={poema.date}*/
           title={poema.title}
           summary={poema.summary}
         />

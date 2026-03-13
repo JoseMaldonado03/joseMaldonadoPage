@@ -9,7 +9,7 @@ pero caminé en sentido contrario,
 ignorando la voz interna
 que me pedía no huir.
 
-Una y otra vez,
+Una y otra vez
 elegí saltar por la ventana
 cuando la puerta de oro
 estaba justo allí,
@@ -17,15 +17,15 @@ esperando.
 
 Rompí vidrios,
 arranqué cortinas,
-destruí personas y cosas
+destruí personas y cosas,
 buscando la luz
 que atravesaba el vitral
 de aquella catedral
 donde solía perderme por las tardes.
 
-Entonces,
+Entonces
 no me creía digno
-de nada más que del silencio,
+de nada más que del silencio:
 ciego,
 entregado al abismo
 de mi propio castigo.

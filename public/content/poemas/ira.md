@@ -20,7 +20,7 @@ fuera un vómito de mi alma rota.
 
 Las lágrimas caían,
 catarata sin destino,
-y al tocar la tinta,
+y al tocar la tinta
 la volvían confusa,
 como yo,
 que también había perdido el sentido.

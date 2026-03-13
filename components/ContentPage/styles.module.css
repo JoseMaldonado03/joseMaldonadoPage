@@ -15,6 +15,7 @@
   text-align: center;
   font-family: var(--font-title);
   font-weight: 400;
+  padding: 10px;
 }
 
 .date {
