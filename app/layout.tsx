@@ -24,12 +24,12 @@ const playfairDisplayFont = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: { default: "José Maldonado", template: "%s | José Maldonado" },
+  title: { default: 'José Maldonado', template: '%s | José Maldonado' },
   description: 'Una fusión de arte y código',
   authors: {
     url: 'https://josemaldonado.vercel.app',
     name: 'José Maldonado',
-  }
+  },
 };
 
 export default function RootLayout({ children }: PropsWithChildren) {
@@ -44,7 +44,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
               <NavBarItem href="/">Inicio</NavBarItem>
               <NavBarItem href="/poemas">Poemas</NavBarItem>
               <NavBarItem href="/pinturas">Pinturas</NavBarItem>
-              <NavBarItem href="/tips">Tips de programación</NavBarItem>
+              <NavBarItem href="/esculturas">Esculturas</NavBarItem>
               <ThemeButton />
             </NavBar>
             {children}

@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: PoemasBooksNombrePageProps) {
   return {
     title: content.title,
     description: content.summary,
-  }
+  };
 }
 
 export default async function PoemasBooksNombrePage({
@@ -33,8 +33,8 @@ export default async function PoemasBooksNombrePage({
       image={content.image}
       content={content.content}
       colors={{
-        backgroundColor: content.bookBackgroundColor,
-        textColor: content.bookTextColor,
+        backgroundColor: `#${content.bookBackgroundColor}`,
+        textColor: `#${content.bookTextColor}`,
       }}
       index={contents}
     />

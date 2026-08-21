@@ -1,8 +1,8 @@
 ---
 title: Equinoccio Polar
 image: /content/poemas/books/equinoccio-polar.jpg
-bookBackgroundColor: #27393A
-bookTextColor: #9FE8EA
+bookBackgroundColor: 27393A
+bookTextColor: 9FE8EA
 ---
 
 Equinoccio Polar es un viaje hacia la melancolía luminosa.

@@ -1,8 +1,8 @@
 ---
 title: Muerte del Letargo 
 image: /content/poemas/books/muerte-del-letargo.png
-bookBackgroundColor: #1F200E
-bookTextColor: #ffffff
+bookBackgroundColor: 1F200E
+bookTextColor: ffffff
 ---
 
 Muerte del letargo es un poemario escrito por José Efraín Maldonado Rangel, un joven escritor que emigro desde su país de origen con el fin de perseguir sus sueños. la obra consta de tres partes: Caos, Zen y Éter, cada una de ellas narra un proceso en la vida del autor; entrelazadas entre sí relatan un proceso de superación a nivel personal, sentimental y emocional. A pesar de verse casi en el fondo busca la manera de solucionar todos estos intermediarios que le atormentan sin solicitar una ayuda profesional.  

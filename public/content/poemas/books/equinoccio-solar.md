@@ -1,8 +1,8 @@
 ---
 title: Equinoccio Solar
 image: /content/poemas/books/equinoccio-solar.jpg
-bookBackgroundColor: #741610
-bookTextColor: #FDF283
+bookBackgroundColor: 741610
+bookTextColor: FDF283
 ---
 
 Después del hielo, viene el fuego. Después del silencio, el grito. Después de romperse, el resurgir.

@@ -30,6 +30,7 @@ export default function Book(props: BookProps) {
           src={props.image}
           className={classes.cover}
           alt={props.title}
+          style={{ borderColor: props.colors?.textColor }}
         />
       )}
       {props.content && (
@@ -47,7 +48,9 @@ export default function Book(props: BookProps) {
                 className={classes.indexItem}
                 style={{ borderBottomColor: props.colors?.textColor }}
               >
-                <Link href={`/poemas/${item.link}`}>{i+1}. {item.title}</Link>
+                <Link href={`/poemas/${item.link}`}>
+                  {i + 1}. {item.title}
+                </Link>
               </li>
             ))}
           </ol>

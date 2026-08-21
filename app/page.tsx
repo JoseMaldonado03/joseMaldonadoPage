@@ -6,7 +6,7 @@ import { getCarpetaContent } from '@/services/content';
 export default function HomePage() {
   const [pintura] = getCarpetaContent('./public/content/pinturas');
   const [poema] = getCarpetaContent('./public/content/poemas');
-  const [tip] = getCarpetaContent('./public/content/tips');
+  const [esculturas] = getCarpetaContent('./public/content/esculturas');
 
   return (
     <main>
@@ -25,10 +25,10 @@ export default function HomePage() {
           image={pintura.image}
         />
         <CardItem
-          link={`/tips/${tip.link}`}
-          title={tip.title}
-          date={tip.date}
-          summary={tip.summary}
+          link={`/esculturas/${esculturas.link}`}
+          date={esculturas.date}
+          title={esculturas.title}
+          image={esculturas.image}
         />
       </ContentList>
     </main>
