@@ -19,10 +19,14 @@
 
 .cover {
   position: relative !important;
-  width: 40% !important;
+  width: 100% !important;
   height: auto !important;
   margin: 40px 0;
   border: 10px solid var(--color-text);
+
+  @media (min-width: 760px) {
+    width: 40% !important;
+  }
 }
 
 .content {

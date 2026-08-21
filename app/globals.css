@@ -1,7 +1,7 @@
 :root {
   --background-image: url('/content/images/flores-light.png');
   /*--color-background: #4e1b26;*/
-  --color-text: #FDF283;
+  --color-text: #fdf283;
   --color-box-background: #8c1b38;
   --color-code-background: #251015;
 
@@ -19,9 +19,9 @@
 [data-theme='dark'] {
   --background-image: url('/content/images/flores-dark.png');
   /*--color-code-background: #0b1617;*/
-  --color-background: #27393A;
-  --color-box-background:  #1b5a5e;
-  --color-text: #B8D8D8;
+  --color-background: #27393a;
+  --color-box-background: #1b5a5e;
+  --color-text: #b8d8d8;
 }
 
 html,

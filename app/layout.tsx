@@ -7,8 +7,6 @@ import './globals.css';
 
 import Container from '@/components/Container';
 import NavBar from '@/components/NavBar';
-import NavBarItem from '@/components/NavBarItem';
-import ThemeButton from '@/components/ThemeButton';
 import Footer from '@/components/Footer';
 
 const merriweatherFont = Merriweather({
@@ -40,13 +38,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
       >
         <ThemeProvider>
           <Container>
-            <NavBar>
-              <NavBarItem href="/">Inicio</NavBarItem>
-              <NavBarItem href="/poemas">Poemas</NavBarItem>
-              <NavBarItem href="/pinturas">Pinturas</NavBarItem>
-              <NavBarItem href="/esculturas">Esculturas</NavBarItem>
-              <ThemeButton />
-            </NavBar>
+            <NavBar />
             {children}
             <Footer />
           </Container>

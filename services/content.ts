@@ -35,6 +35,5 @@ export function getContent(archivo: string) {
 
   const { content, data } = matter(fs.readFileSync(archivo, 'utf-8'));
 
-  console.log({ data, content });
   return { ...data, content } as ContentProperties;
 }

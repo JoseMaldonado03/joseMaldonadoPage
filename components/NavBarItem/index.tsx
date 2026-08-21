@@ -1,25 +1,25 @@
 'use client';
 
 import { PropsWithChildren } from 'react';
-import Link from 'next/link';
+import Link, { LinkProps } from 'next/link';
 import { usePathname } from 'next/navigation';
 
 import classes from './styles.module.css';
 
-interface NavBarItemProps {
-  href: string;
-}
-
 export default function NavBarItem({
   children,
   href,
-}: PropsWithChildren<NavBarItemProps>) {
+  onClick,
+}: PropsWithChildren<LinkProps>) {
   const pathname = usePathname();
-  const isEnabled = href !== '/' ? pathname.includes(href) : href === pathname;
+  const isEnabled =
+    href !== '/' ? pathname.includes(href.toString()) : href === pathname;
 
   return (
     <li className={classes.item} data-enabled={isEnabled}>
-      <Link href={href}>{children}</Link>
+      <Link href={href} onClick={onClick}>
+        {children}
+      </Link>
     </li>
   );
 }

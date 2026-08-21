@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: PinturasNombrePageProps) {
   return {
     title: content.title,
     description: content.summary,
-  }
+  };
 }
 
 export default async function PinturasNombrePage({
