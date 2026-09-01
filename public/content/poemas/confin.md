@@ -1,7 +1,7 @@
 ---
 title: Confín
 summary: La noche, madre de lo oculto, me susurró tus secretos..
-date: 2025-05-14
+date: 2025-09-01
 book: equinoccio-polar
 ---
 

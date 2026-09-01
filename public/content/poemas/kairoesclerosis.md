@@ -1,7 +1,7 @@
 ---
 title: Kairoesclerosis
 summary: Un hermoso caos, caos que anhelaba convertirse en una entelequia perfecta.
-date: 2025-05-27
+date: 2025-12-27
 book: equinoccio-polar
 ---
 
