@@ -5,10 +5,12 @@ bookBackgroundColor: 1F200E
 bookTextColor: ffffff
 ---
 
-Muerte del letargo es un poemario escrito por José Efraín Maldonado Rangel, un joven escritor que emigro desde su país de origen con el fin de perseguir sus sueños. la obra consta de tres partes: Caos, Zen y Éter, cada una de ellas narra un proceso en la vida del autor; entrelazadas entre sí relatan un proceso de superación a nivel personal, sentimental y emocional. A pesar de verse casi en el fondo busca la manera de solucionar todos estos intermediarios que le atormentan sin solicitar una ayuda profesional.  
+Muerte del Letargo es la primera obra de José Efraín Maldonado Rangel, un joven escritor venezolano radicado en Argentina, escrita durante un período de transformación personal, sentimental y emocional. La obra nace de la necesidad de romper con aquello que nos mantiene inmóviles y de encontrar, incluso en medio del caos, una forma de avanzar.
 
-Dicha obra cuenta con ilustraciones que acompañan algunos de sus textos las cuales tienen gran importancia y relevancia en el momento den estos ser escritos, como lo son:  Certidumbre / “Libertad” / Bangover / Verano en invierno / Tragedia en tres actos / Lascivia / Redención /Α y Ω / Resurrección / Origen / Alejandro. 
+El poemario se divide en tres partes: Caos, Zen y Éter. Cada una representa un momento distinto del proceso: la confrontación, la búsqueda de equilibrio y aquello que permanece después de haber atravesado la turbulencia.
 
-Siendo esta su primera obra experimenta entre palabras extranjeras describir el sentimiento que desemboca cada una de ellas y así incluir la cultura de otros lugares tales como: Viraha / Cafuné / Bilita mpash / Nunchi / Meraki.  
+Los poemas recorren la pérdida, el deseo, la soledad, el amor, la incertidumbre y la necesidad de liberarse de aquello que alguna vez pareció imposible abandonar. El lenguaje también se abre a otras culturas mediante palabras extranjeras que permiten nombrar sentimientos para los que, a veces, nuestra propia lengua parece insuficiente.
 
-“La vida es demasiado corta para lamentarse, levántate y busca tu emancipación”  
+Muerte del Letargo no pretende contar una historia lineal ni ofrecer una superación perfecta. Es el registro de un despertar: el momento en que permanecer inmóvil deja de ser una opción.
+
+“La vida es demasiado corta para lamentarse; levántate y busca tu emancipación.”

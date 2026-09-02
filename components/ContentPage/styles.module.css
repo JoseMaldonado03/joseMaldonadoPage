@@ -1,6 +1,6 @@
 .page {
   margin: 0 auto 40px;
-  width: 70%;
+  width: 85%;
   border-radius: 4px;
   overflow: hidden;
 }
@@ -11,7 +11,7 @@
 }
 
 .title {
-  font-size: 32px;
+  font-size: 35px;
   text-align: center;
   font-family: var(--font-title);
   font-weight: 400;
