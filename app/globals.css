@@ -36,8 +36,8 @@ body {
   background-image: var(--background-image);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   background-repeat: no-repeat;
-  /*background: var(--color-background);*/
   font-family: var(--font-title);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
