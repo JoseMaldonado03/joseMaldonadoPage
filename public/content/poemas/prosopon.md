@@ -25,14 +25,15 @@ en medio de tu ruina.
 No comprendo
 cómo, tras entregarnos tantas horas,
 aún ansíes miradas ajenas
-en los interludios de nuestra historia.  
+en los interludios de nuestra historia. 
+
 No quiero parecer
 que mi vida cuelga de tu voz,
 pero mis sentimientos
-anidaron tan hondo en tu pecho
-que es imposible no sentir
+anidaron tan hondo en mi quebrantado ser
+que me es imposible no sentir
 cómo se astilla mi fe
-cuando eliges orar al silencio.  
+cuando eliges orar al silencio.
 
 Me encantaría, algún día,
 oír lo que guardas en lo más hondo,

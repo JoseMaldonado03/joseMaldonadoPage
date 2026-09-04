@@ -44,9 +44,8 @@ Cuarta disculpa: «Lo muerto no vuelve a morir»
 
 La dulce noche se apaga,
 y el sol rompe los últimos rincones oscuros,
-rehuyendo de ti:
-anfitrión de luces ausentes,
-presencia y vacío caminando con la misma sombra.
+rehuyendo de ti, anfitrión de luces ausentes;
+presencia y vacío que caminan bajo la misma sombra.
 
 Al final,
 solo seremos parte de la misma colección:

@@ -20,4 +20,4 @@ suficiente para mí mismo.
 
 Para saciar el hambre de los amantes
 corruptos y acribillar a los anhelantes
-de un amor nefelibata.
+de un amor nefelibato.

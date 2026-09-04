@@ -19,11 +19,8 @@ aquella noche en la que hubiera preferido
 no encontrarme con un acertijo
 que hasta ahora me persigue. 
 
-No puedo evitar preguntarme
-si tu alexitimia se esconde
-en el ademán de tus abrazos,
-o si es mi caprichosa soledad
-la que me acerca a la bonhomía de la tuya.  
+No puedo evitar preguntarme si tu alexitimia se esconde en el ademán de tus abrazos, o si es mi caprichosa soledad la que me acerca a la bonhomía de la tuya.
+
 O quizá, simplemente,
 es mi propio vacío
 atrayéndome a algo que nunca quise. 
