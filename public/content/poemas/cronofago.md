@@ -21,11 +21,12 @@ de cartón, suponiendo que nunca atisbé tu
 estúpida trampa: trampa de carne que, poco
 a poco, se descomponía como te descomponía mi mente cada vez que te acercabas.
 
-​Te enseñé todo mi repertorio, te enseñé todas
-mis partituras, te lancé al bosque para que supieras de dónde carajos yo había venido;
-y lo único que pienso es que, aunque gracias a eso tengo una nueva cicatriz para contarla como
-otra de mis memorables batallas, no puedo
-dejar de pensar: 
+Te enseñé todo mi repertorio, te enseñé todas
+mis partituras, te lancé al bosque para que supieras de dónde carajos yo había venido y ni
+así quemaste tu papel de víctima barata.
 
-¡maldita sea la hora en que
+Sin más rogar, ahora lo único que pienso es que, aunque gracias a esa broza tengo una nueva cicatriz para contarla como
+otra de mis memorables batallas, no puedo
+dejar de pensar:
+¡Maldita sea la hora en que
 me hiciste perder tanto tiempo!
