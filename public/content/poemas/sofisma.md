@@ -1,7 +1,7 @@
 ---
 title: Sofisma
 summary:  Enfundaste verdades con mentiras y mentiras con cinismo.
-date: 2025-01-03
+date: 2026-01-03
 book: equinoccio-solar
 ---
 Tus palabras

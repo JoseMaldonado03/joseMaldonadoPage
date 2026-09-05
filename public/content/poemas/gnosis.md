@@ -1,7 +1,7 @@
 ---
 title: Gnosis
 summary:  Enfundaste verdades con mentiras y mentiras con cinismo.
-date: 2025-01-02
+date: 2026-01-02
 book: equinoccio-solar
 ---
 

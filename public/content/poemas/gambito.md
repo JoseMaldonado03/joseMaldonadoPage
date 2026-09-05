@@ -1,7 +1,7 @@
 ---
 title: Gambito
 summary:  Tanta era tu avaricia que terminaste encerrándote en tu propio juego.
-date: 2025-01-01
+date: 2026-01-01
 book: equinoccio-solar
 ---
 Entré a la partida

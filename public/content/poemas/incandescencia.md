@@ -1,7 +1,7 @@
 ---
 title: Incandescencia
 summary:  Tus manos ahogan el aliento que mi alma suplica.
-date: 2025-01-06
+date: 2026-01-06
 book: equinoccio-solar
 ---
 

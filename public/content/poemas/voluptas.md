@@ -1,7 +1,7 @@
 ---
 title: Voluptas
 summary:  Su protagonismo entre el manto oscuro del cielo es imposible de ignorar.
-date: 2025-01-05
+date: 2026-01-05
 book: equinoccio-solar
 ---
 En cada noche,

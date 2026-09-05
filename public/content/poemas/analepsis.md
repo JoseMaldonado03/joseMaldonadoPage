@@ -1,7 +1,7 @@
 ---
 title: Analepsis
 summary:  Y mientras lo veía desaparecer entre la gente, comprendí que llevaba casi diez años esperando aquella conversación.
-date: 2024-12-01
+date: 2026-01-01
 book: equinoccio-solar
 ---
 Ayer pacté una cita con alguien a quien no veía desde hacía casi diez años; alguien muy especial para mí. Tenía los sentimientos revueltos y el alma inquieta.

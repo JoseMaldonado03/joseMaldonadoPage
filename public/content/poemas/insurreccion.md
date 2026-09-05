@@ -1,7 +1,7 @@
 ---
 title: Insurrección
 summary:  Vocifero silencios que el letargo arcaico escribió.
-date: 2025-01-04
+date: 2026-01-04
 book: equinoccio-solar
 ---
 Toda persona con dependencia emocional
