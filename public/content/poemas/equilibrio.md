@@ -5,44 +5,53 @@ date: 2021-03-27
 book: muerte-del-letargo
 ---
 
-Los cinco platos de la balanza a
-nivel debo tener, me obligo llegar al
-final sin temer.
+Los cinco platos de la balanza
+a nivel debo tener.
 
-Es inevitable sentir temor cuando te
-fallaron en el amor.
+Me obligo a llegar al final
+sin temer.
 
-“Un plato baja, cuatro suben”.
+Es inevitable sentir temor
+cuando te fallaron en el amor.
 
-¡Qué fácil es ganar con un as y qué
-difícil es ganar la paz!
+“Un plato baja,
+cuatro suben”.
 
-“Cae un segundo mientras tres se
-mantienen flotando”.
+¡Qué fácil es ganar con un as
+y qué difícil es ganar la paz!
 
-Ganarle a la oscuridad de tu
-interior sin que se note el quiebre en el
-exterior.
+“Cae uno por un segundo
+mientras tres se mantienen flotando”.
 
-“Ahora tres dominan el peso y dos
-están llenos del vacío”.
+Ganarle a la oscuridad de tu interior
+sin que se note el quiebre
+en el exterior.
 
-La recompensa llega con tanto
-sacrificio, la uso para mi beneficio y no
-puedo evitar culparme cual eterno
-maleficio. 
+“Ahora tres dominan el peso
+y dos están llenos del vacío”.
 
-“El último plato se balancea cual
-péndulo, sonando los pocos segundos
+La recompensa llega con tanto sacrificio;
+la uso para mi beneficio
+y no puedo evitar culparme
+como un eterno maleficio.
+
+“El último plato se balancea cual péndulo,
+sonando los pocos segundos
 antes de llegar a las doce”.
 
-Así vas dando a los demás con el
-sentimiento más puro y tú solo te
-escarmientas, persiguiendo con apuros un
-futuro que realmente es inseguro.
+Así vas dando a los demás
+con el sentimiento más puro
+y tú solo te escarmientas,
+persiguiendo con apuros
+un futuro que realmente es inseguro.
 
-“El equilibrio está completo, todos los
-puntos distribuidos, pero la balanza
-quedó en la misma posición inicial. 
-Con peso en sus cinco platos, hace un gran esfuerzo mecánico para mantener la misma
-estabilidad que tenía sin cargar ninguno”.
+“El equilibrio está completo”.
+
+Todos los puntos distribuidos,
+pero la balanza quedó
+en la misma posición inicial.
+
+Con peso en sus cinco platos,
+hace un gran esfuerzo mecánico
+para mantener la misma estabilidad
+que tenía sin cargar ninguno.

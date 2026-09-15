@@ -23,7 +23,7 @@ que atravesaba el vitral
 de aquella catedral
 donde solía perderme por las tardes.
 
-Entonces
+Entonces,
 no me creía digno
 de nada más que del silencio:
 ciego,
@@ -31,6 +31,8 @@ entregado al abismo
 de mi propio castigo.
 
 ¡Ayuda!
-Nada de esto es repetido,
-todo es nuevo…
-y estoy aterrado.
+
+Nada de esto se repite.
+Todo es nuevo…
+
+Y estoy aterrado.

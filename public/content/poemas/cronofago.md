@@ -28,5 +28,6 @@ así quemaste tu papel de víctima barata.
 Sin más rogar, ahora lo único que pienso es que, aunque gracias a esa broza tengo una nueva cicatriz para contarla como
 otra de mis memorables batallas, no puedo
 dejar de pensar:
+
 ¡Maldita sea la hora en que
 me hiciste perder tanto tiempo!

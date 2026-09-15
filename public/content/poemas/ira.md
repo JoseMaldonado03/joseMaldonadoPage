@@ -16,11 +16,11 @@ que apenas susurraba letras.
 Sentía el gemido de la cuartilla
 bajo la presión de mis palabras,
 como si cada frase
-fuera un vómito de mi alma rota.
+fuera un vómito de mi alma intoxicada.
 
 Las lágrimas caían,
 catarata sin destino,
 y al tocar la tinta
 la volvían confusa,
 como yo,
-que también había perdido el sentido.
+que también había perdido el rumbo.

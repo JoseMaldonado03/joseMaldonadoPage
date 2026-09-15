@@ -5,23 +5,24 @@ date: 2021-11-07
 book: muerte-del-letargo
 ---
 
-El egoísmo humano
-puede doler como un filo hundido en el pecho.
+El egoísmo puede doler
+como un filo hundido en el pecho.
 Decir palabras vacías
 por un instante de falsa felicidad
 hiere incluso al alma más marchita.
 
 Él notaba mi silencio;
-la incomodidad le rozaba
+la incomodidad lo rozaba
 como a un culpable atrapado en su reflejo.
 Preguntaba con falsa sorpresa:
 
-—¿Qué pasa, bebé?
+—¿Qué pasa?
 —¿Por qué tan callado?
 —¿Ahora por qué lloras?
 
 No… no se dio cuenta.
 Y tal vez eso fue lo peor.
+
 Me hirió
 y luego actuó como si nada,
 como si mi dolor

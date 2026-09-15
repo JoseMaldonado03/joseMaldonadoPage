@@ -6,24 +6,30 @@ book: muerte-del-letargo
 ---
 
 Entre catorce lápidas esculpidas
-existe la verdad de una vida simulada
-perfecta. 
+existe la verdad
+de una vida simulada perfecta.
 
-Mentiras escuálidas gritadas a
-los vientos revelan un sinfín de caras que
-ayer parecían reales.
+Mentiras escuálidas
+gritadas a los vientos
+revelan un sinfín de caras
+que ayer parecían reales.
 
-Tragedia, tragedia, tragedia… la
-respuesta a ese mísero sentimiento solo
-existe en el nudo que creaste en tu
-lengua.
+Tragedia, tragedia, tragedia…
 
-Procuras un cambio pragmático
-tan subyacente que ni tú mismo eres
-capaz de llevar a cabo por el miedo
-de ser rechazado entre los falsos
-acreedores de la verdad absoluta.
+La respuesta a ese mísero sentimiento
+solo existe en el nudo
+que creaste en tu lengua.
 
-Ve a la fuente sin desearlo, tal vez
-así encuentres la respuesta de lo que no
-andabas buscando.
+Procuras un cambio pragmático,
+tan subyacente
+que ni tú mismo eres capaz
+de llevarlo a cabo,
+por miedo a ser rechazado
+entre los falsos acreedores
+de la verdad absoluta.
+
+Ve a la fuente sin desearlo.
+
+Tal vez así encuentres
+la respuesta
+a aquello que no andabas buscando.
