@@ -7,7 +7,8 @@ book: equinoccio-polar
 Enmarañada es la situación en que me hallo:
 un amor que se reviste de túnicas delgadas,
 hiladas con mentiras suaves,
-tejidas en un misterio que siempre intuyo,
+tejidas en un misterio
+que siempre intuyo,
 pero nunca alcanzo.
 
 Quiero creerte, lo juro.
@@ -30,27 +31,46 @@ Lo sé.
 Es menos de lo que yo realmente siento.
 Y no te culpo.
 
-Tu historia ya está escrita con tinta serena, sin tachones ni dudas;
-la mía aún se escribe a trazos irregulares,
-pero mis heridas —te aseguro—
+Tu historia ya está escrita
+con tinta serena,
+sin tachones ni dudas;
+la mía aún se escribe
+a trazos irregulares.
+
+Pero mis heridas —te aseguro—
 cantan más historias
 que todos tus días en guerra.
 
-Sé que mientes. Y no, no es por proteger tus secretos,
-es el miedo. Miedo a perder eso único
+Sé que mientes.
+
+Y no,
+no es por proteger tus secretos:
+
+es el miedo.
+
+Miedo a perder eso único
 que te empujó, por fin,
-a enfrentar lo que evitabas desde hace años:
+a enfrentar lo que evitabas
+desde hace años:
+
 el amor.
 
-Ese amor que, por más que escarbes
+Ese amor que,
+por más que escarbes
 bajo la piel de otros cuerpos,
 no vas a encontrar.
+
 Ahora tendrás
 solo lo que ofreces:
-ni más, ni menos.
+
+ni más,
+ni menos.
+
 Lo que un día disfrutaste
 pronto será recuerdo.
 
 Tal vez nunca lo sepas…
+
 pero yo sí te amé.
+
 Te amé de verdad.

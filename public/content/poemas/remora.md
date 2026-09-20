@@ -7,20 +7,24 @@ book: equinoccio-polar
 Te veo y hubiera querido ser
 quien acompañara tus días más fríos
 y abrigara tus noches más cálidas.
+
 Te tengo y, sin embargo,
 siento que no tengo nada.
 
 Eres como un pasajero
 que bajará de mi tren en cualquier momento.
+
 No eres mío,
 no soy tuyo.
+
 Nunca fuimos
 y nunca seremos.
 
 Solo jugamos a ser algo
 que, muy probablemente,
 nunca pasará de ser
-un simple intento de ser uno solo.
+un simple intento de ser uno.
+
 Siempre lo supiste
 y entre líneas me lo recitaste.
 
@@ -32,6 +36,7 @@ Ahora solo actúas
 para satisfacer a los tuyos,
 y yo solo observo tu obra
 que, seguramente, terminará pronto.
+
 Un final que, tal vez,
 ni siquiera vea,
 porque me iré

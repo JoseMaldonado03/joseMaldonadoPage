@@ -14,6 +14,7 @@ Fue la segunda vez
 que me permití el mismo error,
 pero esta vez
 no habría segundo arrepentimiento.  
+
 Supiste leer entre líneas
 algunos de mis pensamientos;
 aunque no fuiste tan hábil
@@ -26,6 +27,7 @@ Y ahí pensé:
 ¿De verdad crees
 que puedes domar un tiburón
 y olvidar su naturaleza salvaje?  
+
 Me culpas
 por abandonarte
 en tu propio vacío—
@@ -37,6 +39,7 @@ y sueltas
 al único ser vivo
 que habitaba en ti.  
 Y entonces…
+
 ¿el pecado pesa más
 en quien lo comete
 o en quien lo presencia?

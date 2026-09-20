@@ -8,11 +8,13 @@ Recordabas…
 ¿Recordaste cada una de tus palabras
 en esas noches taciturnas,
 cuando la soledad tocaba la puerta más profunda
-y tu ser no era capaz de llenar más que vicios pecaminosos?
+y tu ser no era capaz de llenarse
+más que de vicios pecaminosos?
 
 Recuerdas…
 ¿Recuerdas que tu primer pensamiento al despertar
 era yo, alumbrando la parte que te faltaba llenar?
+
 ¿Estás recordando la maldita agonía de sentirte incompleto,
 aunque tu cuerpo encajara en un montón de lugares cálidos?
 

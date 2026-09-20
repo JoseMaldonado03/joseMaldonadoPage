@@ -4,7 +4,6 @@ summary: Te invito al funeral de mi raciocinio.
 date: 2025-12-26 
 book: equinoccio-polar
 ---
-
 La pureza de la ingenuidad respira esperanza,
 aun cuando su lógica la ha encadenado
 para soltar aquello

@@ -63,7 +63,7 @@ El futuro no tiene voz.
 
 Solo es una copa de vino tinto, oscura.
 
-Incierto de su contenido, procedí a ingerirlo.
+Incierto de su contenido, lo bebí.
 Trago a trago, el vino se sentía cada vez más espeso, hasta hacerme imposible tragarlo. 
 
 Entonces, su sabor pasó del amargo de una uva al hierro casi oxidado de la sangre.
@@ -71,7 +71,10 @@ Agobiado, tiré la copa y escupí aquello que aún me quedaba por tragar.
 
 Mientras caía al suelo, no pude evitar sentir el peso de la incertidumbre: esa que nos atormenta por saber qué será de nosotros; el peso de cada decisión que aún no hemos tomado.
 
-Porque, si de algo estoy seguro, es de que estúpidamente nos mortificamos por cosas que aún no suceden y les damos prioridad.
+Porque, si de algo estoy seguro,
+es de que nos mortificamos estúpidamente
+por cosas que aún no suceden
+y les damos prioridad.
 
 Por eso el futuro es orgulloso:
 

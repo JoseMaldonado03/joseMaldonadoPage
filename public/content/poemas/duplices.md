@@ -62,7 +62,9 @@ que no me dio tiempo a autorizar.
 Éramos esa fiesta exclusiva
 que solo ocurre una noche
 y a la que pocos acceden:
+
 unas sonrisas,
 unas miradas,
 unas marcas…
+
 y un adiós.
